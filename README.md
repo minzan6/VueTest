@@ -1,4 +1,4 @@
-# React test
+# Vue test
 
 Below is the questions and the related data
 
@@ -82,7 +82,6 @@ const tasks = [
 ```
 demo video: demo.mov
 
-Table component(React): https://mui.com/material-ui/react-table/
 Table component(Vue): https://vuetifyjs.com/en/components/simple-tables/
 
 color palette:
